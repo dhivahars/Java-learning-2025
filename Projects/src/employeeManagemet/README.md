@@ -10,12 +10,19 @@ The project demonstrates how to manage employees (Developers, Managers, etc.) wi
 
 employeeManagemet/
 │
+
 ├── Person.java # Abstract base class (common attributes for all persons)
+
 ├── Employee.java # Abstract class extending Person (common employee behavior)
+
 ├── Developer.java # Developer class extending Employee
+
 ├── Manager.java # Manager class extending Employee
+
 ├── EmployeeManager.java # Handles employee list (add, search, remove operations)
+
 └── Main.java # Entry point (runs the program)
+
 ---
 
 ## ✨ Features
@@ -63,15 +70,12 @@ Salary:100000.0
 Designation:Developer
 
 Employee Removed Successfully
+
+How to Run
 ```
-1.How to Run
-
-2.Clone the repository:
-
-
-3.Open the project in IntelliJ IDEA / Eclipse / VS Code.
-
-4.Compile and run Main.java.
+1.Clone the repository:
+2.Open the project in IntelliJ IDEA / Eclipse / VS Code.
+3.Compile and run Main.java.
 ```
 Technologies Used
 
