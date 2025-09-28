@@ -79,8 +79,6 @@ How to Run
 ```
 Technologies Used
 
-Java 8+
-
-OOP Concepts
-
-Collections (ArrayList)
+1.Java 8+
+2.OOP Concepts
+3.Collections (ArrayList)
