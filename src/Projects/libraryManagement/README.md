@@ -16,12 +16,19 @@ A simple **Object-Oriented Java project** that demonstrates core OOP concepts li
 ## 🛠️ Project Structure
 libraryMangement/
 │
+
 ├── Book.java # Represents a Book (extends LibraryItem, implements Borrowable)
+
 ├── Magazine.java # Represents a Magazine (extends LibraryItem, implements Borrowable)
+
 ├── NewsPaper.java # Represents a Newspaper (extends LibraryItem)
+
 ├── Borrowable.java # Interface defining borrow() and returnBook()
+
 ├── LibraryItem.java # Abstract base class for all library items
+
 ├── LibraryManager.java# Manages library operations (add, remove, search, display, late fees)
+
 └── Main.java # Entry point for testing the system
 
 ---
