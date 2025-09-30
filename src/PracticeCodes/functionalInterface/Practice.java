@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.functionalInterface;
+package PracticeCodes.functionalInterface;
 
 import java.util.function.Consumer;
 import java.util.function.Function;

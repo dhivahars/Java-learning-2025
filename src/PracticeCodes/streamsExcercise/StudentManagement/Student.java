@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.streamsExcercise.StudentManagement;
+package PracticeCodes.streamsExcercise.StudentManagement;
 
 public class Student {
         int id;

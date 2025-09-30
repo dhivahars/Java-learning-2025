@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.streamsExcercise.Emp;
+package PracticeCodes.streamsExcercise.Emp;
 
 public class Employee {
     private int id;

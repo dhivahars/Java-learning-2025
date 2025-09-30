@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.streamsExcercise;
+package PracticeCodes.streamsExcercise;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;

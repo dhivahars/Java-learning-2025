@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.association;
+package PracticeCodes.association;
 
 public class Engine {
     private String type;

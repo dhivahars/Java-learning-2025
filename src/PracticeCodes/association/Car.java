@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.association;
+package PracticeCodes.association;
 
 public class Car {
     private String brand;

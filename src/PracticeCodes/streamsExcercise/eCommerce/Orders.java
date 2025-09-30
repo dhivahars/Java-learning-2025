@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.streamsExcercise.eCommerce;
+package PracticeCodes.streamsExcercise.eCommerce;
 enum Status{COMPLETED,PENDING,CANCELLED;}
 public class Orders {
     private int orderId;

@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.streamsExcercise.eCommerce;
+package PracticeCodes.streamsExcercise.eCommerce;
 
 import java.util.*;
 import java.util.stream.Collectors;

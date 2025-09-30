@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.basics;
+package PracticeCodes.basics;
 
 public class JavaBasics {
     int a;

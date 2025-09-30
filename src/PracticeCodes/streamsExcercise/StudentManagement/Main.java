@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.streamsExcercise.StudentManagement;
+package PracticeCodes.streamsExcercise.StudentManagement;
 
 import java.util.*;
 import java.util.stream.Collectors;

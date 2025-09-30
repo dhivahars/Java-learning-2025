@@ -1,4 +1,4 @@
-package PracticeCodes.firstWeek.basics;
+package PracticeCodes.basics;
 
 public class Conditionals {
     public static void main(String[] args) {
