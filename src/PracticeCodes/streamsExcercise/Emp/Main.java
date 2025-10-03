@@ -33,7 +33,7 @@ public class Main {
         System.out.println("\nNumber of Employees in Each Department");
         System.out.println("_______________________________________");
         Map<String, Long> empCount=Emp.stream()
-                .collect(Collectors.groupingBy(Employee::getDepartment,Collectors.mapping(Employee::getDepartment,Collectors.counting())));
+                .collect(Collectors.groupingBy(a->a.getDepartment(),Collectors.counting()));
         System.out.println(empCount);
         //Exercise-5
         System.out.println("\nList of Employees working");

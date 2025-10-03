@@ -3,7 +3,7 @@ package PracticeCodes.streamsExcercise.eCommerce;
 import java.util.*;
 import java.util.stream.Collectors;
 
-import static PracticeCodes.firstWeek.streamsExcercise.eCommerce.Status.*;
+import static PracticeCodes.streamsExcercise.eCommerce.Status.*;
 
 public class Main {
     public static void main(String[] args) {

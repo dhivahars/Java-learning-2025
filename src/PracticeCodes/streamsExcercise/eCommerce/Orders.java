@@ -3,13 +3,13 @@ enum Status{COMPLETED,PENDING,CANCELLED;}
 public class Orders {
     private int orderId;
     private String customerName;
-    private Status order_status;
+    private Status orderStatus;
     private int amount;
 
-    public Orders(int orderId, String customerName, Status order_status, int amount) {
+    public Orders(int orderId, String customerName, Status orderStatus, int amount) {
         this.orderId = orderId;
         this.customerName = customerName;
-        this.order_status = order_status;
+        this.orderStatus = orderStatus;
         this.amount = amount;
     }
 
@@ -30,11 +30,11 @@ public class Orders {
     }
 
     public  Status getOrder_status() {
-        return order_status;
+        return orderStatus;
     }
 
     public void setOrder_status(Status order_status) {
-        this.order_status = order_status;
+        this.orderStatus = order_status;
     }
 
     public int getAmount() {
@@ -49,7 +49,7 @@ public class Orders {
     public String toString() {
         return "\nOrder Id=" + orderId +
                 "\nCustomer Name='" + customerName +
-                "\nOrder_status=" + order_status +
+                "\nOrder_status=" + orderStatus +
                 "\nAmount=" + amount ;
     }
 }
